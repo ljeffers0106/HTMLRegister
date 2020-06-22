@@ -1,0 +1,63 @@
+body {
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;!
+}
+div {
+    background-color: whitesmoke;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+h1 {
+    padding: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    }
+
+.formSubmit {
+    text-align: left;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    background-color:blue;
+    width: 70%;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    transition: 0.3s;    
+}
+input {
+    padding: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    width:  70%;
+    
+}
+
+#Topline {
+    width: 100%;
+    height: 40%;
+    margin: auto;
+   
+}
+.About {
+    text-align: Right;
+    color: white;
+    background-color: blue;
+    padding: 3px;
+    right: 45%;
+    float: right;
+    top: 0px;
+
+    
+}
+.Register {
+    text-align: Right;
+    color: white;
+    background-color: blue;
+    padding: 3px;
+    right: 95%;
+    float: right;
+}
